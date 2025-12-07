@@ -1,10 +1,10 @@
-# 📚 MINI DỰ ÁN KIỂM THỬ ỨNG DỤNG WEB FACEBOOK (Portfolio)
+# 📚 MINI DỰ ÁN KIỂM THỬ ỨNG DỤNG WEB FACEBOOK 
 
 **Mục tiêu:** Xây dựng một bộ tài liệu kiểm thử cơ bản cho các tính năng cốt lõi của Facebook, áp dụng các tiêu chuẩn và kỹ thuật kiểm thử chuyên nghiệp.
 
 ---
 
-## 1. PHẠM VI KIỂM THỬ (TEST SCOPE)
+## 1. PHẠM VI KIỂM THỬ 
 
 Dự án tập trung vào 03 Module chính:
 
@@ -12,7 +12,7 @@ Dự án tập trung vào 03 Module chính:
 2.  **Đăng ký:** Xác minh tạo tài khoản mới.
 3.  **Đăng bài viết:** Xác minh khả năng tương tác nội dung.
 
-## 2. KỸ THUẬT THIẾT KẾ TEST (TEST DESIGN TECHNIQUES)
+## 2. KỸ THUẬT THIẾT KẾ TEST 
 
 Các Test Case được thiết kế bằng cách áp dụng các kỹ thuật sau để tối ưu hóa độ bao phủ và hiệu quả kiểm thử:
 
@@ -20,7 +20,7 @@ Các Test Case được thiết kế bằng cách áp dụng các kỹ thuật s
 * **Phân tích giá trị biên:** Tập trung kiểm thử tại các giới hạn (ví dụ: tối thiểu, tối đa) của dữ liệu đầu vào.
 * **Kiểm thử Tiêu cực:** Tập trung vào các trường hợp nhập sai, lỗi, hoặc ngoài phạm vi mong đợi.
 
-## 3. CẤU TRÚC TÀI LIỆU (ARTIFACTS)
+## 3. CẤU TRÚC TÀI LIỆU 
 
 Dự án được tổ chức thành 04 loại tài liệu chính:
 
@@ -35,6 +35,6 @@ Dự án được tổ chức thành 04 loại tài liệu chính:
 
 ## 4. LIÊN KẾT ĐẾN DỰ ÁN HOẠT ĐỘNG 
 
-Để xem chi tiết các Test Case và Bug Report mẫu, vui lòng truy cập Google Sheets:
+Để xem chi tiết vui lòng truy cập Google Sheets:
 
 **[(https://docs.google.com/spreadsheets/d/1TLcTlIA_QLPf0NRKHwd5A55bNbhG29L6EyTiTF4J2ag/edit?usp=sharing)**]
